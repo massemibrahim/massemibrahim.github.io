@@ -5,18 +5,54 @@
 {}{img_left}{Documents/Images/Mohamed_1.jpg}{Mohamed Ibrahim}{157}{208}{}
 PhD Student \n
 [http://www.wm.edu/as/computerscience/ Department of Computer Science] \n
-[http://www.wm.edu/ The College of William and Mary] \n
+[http://www.wm.edu/ College of William and Mary] \n
 McGlothlin-Street Hall 101B \n
 Williamsburg, VA 23187 \n
 {{<img src="Documents/Images/Email_Icon.jpg"/ ALIGN=TOP>}} maibrahim*AT*email*DOT*wm*DOT*edu \n
 {{<img src="Documents/Images/Google_Scholar.png"/ ALIGN=TOP>}} [https://scholar.google.com/citations?user=rmDg93AAAAAJ&hl=en Google Scholar Profile] \n
 ~~~
 
-#{}{img_left}{Documents/Images/WM_Icon.jpg}{The College of William and Mary}{23}{23}{} \n
-
 == About
 I am a PhD student in the Department of Computer Science at the College of William and Mary (WM). My research interests include all aspects of computer architecture, specifically data-parallel architectures (e.g., GPUs), CPU-GPU heterogeneous architectures, and interconnection networks. I am a research assistant in Insight Computer Architecture Lab advised by [http://adwaitjog.github.io/ Assistant Professor Adwait Jog]. 
 
 I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Cairo University], Egypt (CU). My MSc thesis was supervised by [http://scholar.cu.edu.eg/?q=helboghdadi Professor Hatem El-Boghdadi]. While working as a teaching assistant at Cairo University, I was also a Research Software Development Engineer (RSDE) at [http://www.nileu.edu.eg/ Nile University] with [https://sites.google.com/site/telbatt/ Associate Professor Tamer ElBatt], and a Software Engineer at [http://www.inmobly.com/ Inmobly] with [http://www2.ece.ohio-state.edu/~elgamal/ Professor Hesham ElGamal] and [https://eg.linkedin.com/in/nwanas Associate Professor Nayer Wanas].
+
+== Publications
+- Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, Adwait Jog, Sreepathi Pai, *Mohamed Ibrahim*, Mahmut T. Kandemir, Chita R. Das \n
+/Controlled Kernel Launch for Dynamic Parallelism in GPUs/, \n
+In the Proceedings of [http://hpca2017.org/ The 23rd IEEE Symposium on High Performance Computer Architecture]
+*\<span style=\"color: FireBrick \"\>(HPCA)\<\/span\>*, Austin, TX, February 2017 \n
+(Acceptance rate: 50/224 ~= %22.3) \n
+\[[Documents/PDFs/Controlled-DP-HPCA-2017.pdf PDF]] \n
+#\[[coming.html Talk (PPTX)]] \n
+
+- *Mohamed Ibrahim*, Hatem M El-Boghdadi \n
+/Investigating the Viability of Maximum Flexibility Selection Function in Bufferless 2D Meshes/, \n
+In the Proceedings of The 3rd International Workshop on Many-core Embedded Systems
+*\<span style=\"color: FireBrick \"\>(MES@ISCA)\<\/span\>*, Portland, OR, June 2015 \n
+\[[http://dl.acm.org/citation.cfm?id=2768185 PDF]] \n
+#\[[Documents/PDFs/MaxFlex-MES-2015.pdf PDF]] \n
+
+- Omar Shoukry, *Mohamed Ibrahim*, John Tadrous, Hesham El Gamal, Tamer ElBatt, Nayer Wanas, Yaser Elnakieb, Mohamed Khairy \n
+/Proactive Scheduling for Content Pre-fetching in Mobile Networks/, \n
+In the Proceedings of [http://icc2014.ieee-icc.org/ IEEE International Conference on Communications]
+*\<span style=\"color: FireBrick \"\>(ICC)\<\/span\>*, Sydney, Australia, June 2014 \n
+(Acceptance rate: 995/2,608 ~= 38%) \n
+#\[[Documents/PDFs/PAUL-ICC-2014.pdf PDF]] \n
+
+- *Mohamed Ibrahim*, Omar Shoukry, Hesham El Gamal, Tamer ElBatt, Nayer Wanas, Mohamed Abdel Raouf, Mohamed Zakaria, Ahmed Abdel Kader, Hakem Zayed \n
+/PAUL - Proactive Automated mobile User-centric content deLivery/, \n
+In the Proceedings of [https://www.sigmobile.org/mobisys/2013/index.php The 11th International Conference on Mobile Systems, Applications, and Services]
+*\<span style=\"color: FireBrick \"\>(MobiSys)\<\/span\>*, Taipei, Taiwan, June 2013 \n
+\[[Documents/PDFs/PAUL-Demo-MobiSys-2013.pdf PDF]] \n
+
+== Educational Background
+- PhD Student in [http://www.wm.edu/as/computerscience Computer Science], [http://www.wm.edu/ College of William and Mary]\n Spring 2016 - Present
+- MSc in [http://eng.cu.edu.eg/en/ Computer Engineering], [http://cu.edu.eg/Home Cairo University]\n Fall 2010 - Fall 2015 
+- BSc in [http://eng.cu.edu.eg/en/ Computer Engineering], [http://cu.edu.eg/Home Cairo University]\n Fall 2005 - Spring 2010
+- [http://www.sakkara-els.com/ Sakkara Language School]
+
+== Memberships
+- [http://www.acm.org/ ACM Student]
 
 == This page is under construction.
