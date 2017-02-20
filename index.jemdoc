@@ -48,9 +48,6 @@ In the Proceedings of [https://www.sigmobile.org/mobisys/2013/index.php The 11th
 \[[Documents/PDFs/PAUL-Demo-MobiSys-2013.pdf PDF]] \n
 
 == Teaching
-~~~
-[teaching.html Here] is the (almost) complete list of courses.
-~~~
 - Spring 2017 @ WM
 \n Teaching Assistant, CS 421 - Database Systems
 - Fall 2016 @ WM
@@ -58,6 +55,10 @@ In the Proceedings of [https://www.sigmobile.org/mobisys/2013/index.php The 11th
 - Spring 2016 @ WM
 \n Teaching Assistant, CS 421 - Database Systems
 \n Teaching Assistant, CS 131 - Concepts of Computer Science
+
+~~~
+[teaching.html Here] is the (almost) complete list of courses.
+~~~
 
 == Experience
 - Research Software Development Engineer at [http://www.nileu.edu.eg/ Nile University]
