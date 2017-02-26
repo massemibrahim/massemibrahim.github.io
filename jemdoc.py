@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  All logos are registered trademarks of their respective owners.
+  All product names, logos, and brands are property of their respective owners.<br>
   Last update: |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
   [sourcelink]
