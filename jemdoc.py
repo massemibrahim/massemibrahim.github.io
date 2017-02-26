@@ -252,7 +252,8 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  All logos are registered trademarks of their respective owners.
+  Last update: |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
