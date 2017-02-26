@@ -250,8 +250,9 @@ def standardconf():
   [footerend]
   </div>
   </div>
-  All logos are registered trademarks of their respective owners.
+  
   [lastupdated]
+  All logos are registered trademarks of their respective owners.
   Last update: |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
   [sourcelink]
