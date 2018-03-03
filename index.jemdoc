@@ -17,18 +17,22 @@ I am a PhD student in the Department of Computer Science at the College of Willi
 
 I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Cairo University], Egypt (CU). My MSc thesis was supervised by [http://scholar.cu.edu.eg/?q=helboghdadi Professor Hatem El-Boghdadi]. While working as a teaching assistant at Cairo University, I was also a Research Software Development Engineer (RSDE) at [http://www.nileu.edu.eg/ Nile University] with [https://sites.google.com/site/telbatt/ Associate Professor Tamer ElBatt], and a Software Engineer at [http://www.inmobly.com/ Inmobly] with [http://www2.ece.ohio-state.edu/~elgamal/ Professor Hesham ElGamal] and [https://eg.linkedin.com/in/nwanas Associate Professor Nayer Wanas].
 
+== Recent News
+- February 2018: I presented our work \[[Documents/PDFs/paper_haonan_wang_hpca2018.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/]] at [https://hpca2018.ece.ucsb.edu/ HPCA 2018].
+
 == Publications
 - *\<span style=\"color: FireBrick \"\>(HPCA 2018)\<\/span\>* Haonan Wang, Fan Luo, *Mohamed Ibrahim*, Onur Kayiran, Adwait Jog \n
 /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/, \n
 In the Proceedings of [http://hpca2018.ece.ucsb.edu/ The 24th IEEE Symposium on High Performance Computer Architecture], Vienna, Austria, February 2018 \n
 (Acceptance rate: 54/260 ~= %20.7) \n
-\[[Documents/PDFs/paper_haonan_wang_hpca2018.pdf Paper]] \n
-#\[[Documents/Talks/talk_haonan_wang_hpca2018.pptx Talk]] \n
+\[[Documents/PDFs/paper_haonan_wang_hpca2018.pdf Paper]] 
+\[[Documents/Talks/talk_haonan_wang_hpca2018.pptx Talk]]
+\[[https://youtu.be/lz6jioFjD6k Lightning Talk]] \n
 
 - *\<span style=\"color: FireBrick \"\>(AIM@PACT 2017)\<\/span\>* Hengyu Zhao, Colin Weinshenker, *Mohamed Ibrahim*, Adwait Jog, Jishen Zhao \n
 /Layer-wise Performance Bottleneck Analysis of Deep Neural Networks/, \n
 In the Proceedings of [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures for Intelligent Machine], Portland, Oregon, September 2017 \n
-\[[Documents/PDFs/paper_hengyu_zhao_aim2017.pdf Paper]] \n
+\[[Documents/PDFs/paper_hengyu_zhao_aim2017.pdf Paper]]
 \[[Documents/Talks/talk_hengyu_zhao_aim2017.pptx Talk]] \n
 
 - *\<span style=\"color: FireBrick \"\>(HPCA 2017)\<\/span\>* Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, Adwait Jog, Sreepathi Pai, *Mohamed Ibrahim*, Mahmut T. Kandemir, Chita R. Das \n
@@ -36,7 +40,6 @@ In the Proceedings of [http://aim2017.cse.psu.edu/ The 1st International Worksho
 In the Proceedings of [http://hpca2017.org/ The 23rd IEEE Symposium on High Performance Computer Architecture], Austin, Texas, February 2017 \n
 (Acceptance rate: 50/224 ~= %22.3) \n
 \[[Documents/PDFs/paper_xulong_tang_hpca2017.pdf Paper]] \n
-#\[[Documents/Talks/talk_xulong_tang_hpca2017.pptx Talk]] \n
 
 - *\<span style=\"color: FireBrick \"\>(MES@ISCA 2015)\<\/span\>* *Mohamed Ibrahim*, Hatem M El-Boghdadi \n
 /Investigating the Viability of Maximum Flexibility Selection Function in Bufferless 2D Meshes/, \n
