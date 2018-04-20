@@ -3,6 +3,7 @@
 
 ~~~
 {}{img_left}{Documents/Images/Mohamed_1.jpg}{Mohamed Ibrahim}{157}{208}{}
+{}{img_right}{Documents/Images/QR_Code.png}{}{200}{200}{}
 PhD Candidate \n
 [http://www.wm.edu/as/computerscience/ Department of Computer Science] \n
 [http://www.wm.edu/ College of William and Mary] \n
@@ -18,7 +19,8 @@ I am a PhD student in the Department of Computer Science at the College of Willi
 I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Cairo University], Egypt (CU). My MSc thesis was supervised by [http://scholar.cu.edu.eg/?q=helboghdadi Professor Hatem El-Boghdadi]. While working as a teaching assistant at Cairo University, I was also a Research Software Development Engineer (RSDE) at [http://www.nileu.edu.eg/ Nile University] with [https://sites.google.com/site/telbatt/ Associate Professor Tamer ElBatt], and a Software Engineer at [http://www.inmobly.com/ Inmobly] with [http://www2.ece.ohio-state.edu/~elgamal/ Professor Hesham ElGamal] and [https://eg.linkedin.com/in/nwanas Associate Professor Nayer Wanas].
 
 ~~~
-== Recent News
+# == Recent News
+{Recent News}
 - February 2018: I presented our work [Documents/PDFs/paper_haonan_wang_hpca2018.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/] at [https://hpca2018.ece.ucsb.edu/ HPCA 2018].
 ~~~
 
