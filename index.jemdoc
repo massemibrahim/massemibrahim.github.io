@@ -20,14 +20,21 @@ I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Ca
 ~~~
 == Recent News
 - August 2018: Our submission to [https://src.acm.org/ The ACM Student Research Competition (SRC)] got accepted. I will present our work [Documents/PDFs/abstract_mohamed_ibrahim_src2018.pdf /Design and Analysis of Efficient Inter-core Communication in GPUs/] at [https://www.microarch.org/micro51/ SRC@MICRO 2018]. 
-- May 2018: Internship at [https://www.amd.com/en-us/who-we-are/corporate-information/research/ AMD Research].
-- February 2018: I presented our work [Documents/PDFs/paper_haonan_wang_hpca2018.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/] at [https://hpca2018.ece.ucsb.edu/ HPCA 2018].
+#- May 2018: Internship at [https://www.amd.com/en-us/who-we-are/corporate-information/research/ AMD Research].
+#- February 2018: I presented our work [Documents/PDFs/paper_haonan_wang_hpca2018.pdf /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/] at [https://hpca2018.ece.ucsb.edu/ HPCA 2018].
 ~~~
 
 == Publications
+- *\<span style=\"color: FireBrick \"\>(ICS 2019)\<\/span\>* Haonan Wang, *Mohamed Ibrahim*, Sparsh Mittal, Adwait Jog \n
+/Address-Stride Assisted Approximate Value Prediction in GPUs/, \n
+In [https://ics19.eecis.udel.edu/ The 33rd ACM International Conference on Supercomputing], Phoenix, Arizona, June 2019 \n
+(Acceptance rate: 45/193 ~= %23.3) \n
+\[[Documents/PDFs/paper_haonan_wang_ics2019.pdf Paper]] \n
+#\[[Documents/Talks/talk_haonan_wang_ics2019.pptx Talk]] \n
+
 - *\<span style=\"color: FireBrick \"\>(MICRO 2018)\<\/span\>* Hongyuan Liu, *Mohamed Ibrahim*, Onur Kayiran, Sreepathi Pai, Adwait Jog \n
 /Architectural Support for Efficient Large-Scale Automata Processing/, \n
-To appear in [https://www.microarch.org/micro51/ The 51st International Symposium on Microarchitecture], Fukuoka, Japan, October 2018 \n
+In [https://www.microarch.org/micro51/ The 51st International Symposium on Microarchitecture], Fukuoka, Japan, October 2018 \n
 (Acceptance rate: 74/348 ~= %21.3) \n
 \[[Documents/PDFs/paper_hongyuan_liu_micro2018.pdf Paper]]
 \[[Documents/Talks/talk_hongyuan_liu_micro2018.pptx Talk]]
