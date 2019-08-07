@@ -5,7 +5,7 @@
 {}{img_left}{Documents/Images/Mohamed_1.jpg}{Mohamed Ibrahim}{157}{208}{}
 PhD Candidate \n
 [http://www.wm.edu/as/computerscience/ Department of Computer Science] \n
-[http://www.wm.edu/ College of William and Mary] \n
+[http://www.wm.edu/ College of William & Mary] \n
 McGlothlin-Street Hall 101B \n
 Williamsburg, VA 23187 \n
 {{<img src="Documents/Images/Email_Icon.jpg"/ ALIGN=TOP>}} maibrahim*AT*email*DOT*wm*DOT*edu \n
@@ -13,9 +13,9 @@ Williamsburg, VA 23187 \n
 ~~~
 
 == About
-I am a PhD student in the Department of Computer Science at the College of William and Mary (WM). My research interests include all aspects of computer architecture, specifically data-parallel architectures (e.g., GPUs), CPU-GPU heterogeneous architectures, and interconnection networks. I am a research assistant in [http://insight-archlab.github.io/ Insight Computer Architecture Lab] advised by [http://adwaitjog.github.io/ Assistant Professor Adwait Jog]. 
+I am a PhD student in the Department of Computer Science at the College of William & Mary. My research interests include all aspects of computer architecture, specifically data-parallel architectures (e.g., GPUs), CPU-GPU heterogeneous architectures, and interconnection networks. I am a research assistant in [http://insight-archlab.github.io/ Insight Computer Architecture Lab] advised by [http://adwaitjog.github.io/ Assistant Professor Adwait Jog]. 
 
-I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Cairo University], Egypt (CU). My MSc thesis was supervised by [http://scholar.cu.edu.eg/?q=helboghdadi Professor Hatem El-Boghdadi]. While working as a teaching assistant at Cairo University, I was also a Research Software Development Engineer (RSDE) at [http://www.nileu.edu.eg/ Nile University] with [https://sites.google.com/site/telbatt/ Associate Professor Tamer ElBatt], and a Software Engineer at [http://www.inmobly.com/ Inmobly] with [http://www2.ece.ohio-state.edu/~elgamal/ Professor Hesham ElGamal] and [https://eg.linkedin.com/in/nwanas Associate Professor Nayer Wanas].
+I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Cairo University], Egypt. My MSc thesis was supervised by [http://scholar.cu.edu.eg/?q=helboghdadi Professor Hatem El-Boghdadi]. While working as a teaching assistant at Cairo University, I was also a Research Software Development Engineer (RSDE) at [http://www.nileu.edu.eg/ Nile University] with [https://sites.google.com/site/telbatt/ Associate Professor Tamer ElBatt], and a Software Engineer at [http://www.inmobly.com/ Inmobly] with [http://www2.ece.ohio-state.edu/~elgamal/ Professor Hesham ElGamal] and [https://eg.linkedin.com/in/nwanas Associate Professor Nayer Wanas].
 
 ~~~
 == Recent News
@@ -113,20 +113,12 @@ Committee Members: Professor Mohammad Zaki Abdel-Majeed, [http://www.si-ware.com
 \n October 2011 - June 2013
 
 == Teaching Experience
-# - Spring 2017 @ WM
-# \n Teaching Assistant, CS 421 - Database Systems
-# - Fall 2016 @ WM
-# \n Teaching Assistant, CS 424/524 - Computer Architecture
-# - Spring 2016 @ WM
-# \n Teaching Assistant, CS 421 - Database Systems
-# \n Teaching Assistant, CS 131 - Concepts of Computer Science
-# 
 ~~~
 [teaching.html Here] is the (almost) complete list of courses.
 ~~~
 
 == Educational Background
-- {{<img src="Documents/Images/WM_Icon.jpg"/ ALIGN=TOP>}} PhD Student in [http://www.wm.edu/as/computerscience Computer Science], [http://www.wm.edu/ College of William and Mary]
+- {{<img src="Documents/Images/WM_Icon.jpg"/ ALIGN=TOP>}} PhD Student in [http://www.wm.edu/as/computerscience Computer Science], [http://www.wm.edu/ College of William & Mary]
 \n Spring 2016 - Present
 - {{<img src="Documents/Images/CU_Icon.png"/ ALIGN=TOP>}} MSc in [http://eng.cu.edu.eg/en/ Computer Engineering], [http://cu.edu.eg/Home Cairo University]
 \n Fall 2010 - Fall 2015 
