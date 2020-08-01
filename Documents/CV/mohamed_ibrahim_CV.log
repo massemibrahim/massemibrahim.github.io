@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.8.1)  1 AUG 2020 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.8.1)  1 AUG 2020 16:28
 entering extended mode
 **"C:/Users/Mohamed Assem/Google Drive/Personal_Website/massemibrahim.github.io
 /Documents/CV/mohamed_ibrahim_CV.tex"
@@ -350,11 +350,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 59.
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--147
-\OT1/cmr/m/n/10 ======= \OT1/cmr/m/it/10 Men-tors: [][]\OT1/cmr/m/n/10 Onur Kay
-i-ran[][], [][]Shaizeen Aga[][] >>>>>>>
- []
-
 [1
 Non-PDF special ignored!
 <special> papersize=614.295pt,794.96999pt
@@ -417,14 +412,6 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
-<special> color push cmyk 0 1 0 0
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push cmyk 0 1 0 0
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
 <special> color push  Black
 Non-PDF special ignored!
 <special> color pop
@@ -450,6 +437,10 @@ Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
 <special> color push  Black
+Non-PDF special ignored!
+<special> color pop
+Non-PDF special ignored!
+<special> color push cmyk 0 1 0 0
 Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
@@ -463,10 +454,6 @@ Non-PDF special ignored!
 ] [2
 Non-PDF special ignored!
 <special> color push  Black
-Non-PDF special ignored!
-<special> color pop
-Non-PDF special ignored!
-<special> color push cmyk 0 1 0 0
 Non-PDF special ignored!
 <special> color pop
 Non-PDF special ignored!
@@ -530,7 +517,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 458.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 454.
  [3
 Non-PDF special ignored!
 <special> color push  Black
@@ -577,13 +564,13 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> color pop
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 458.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 454.
  (mohamed_ibrahim_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 458.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 458.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 454.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 454.
 Package rerunfilecheck Info: File `mohamed_ibrahim_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 458.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 454.
  ) 
 Here is how much of TeX's memory you used:
  4922 strings out of 480934
@@ -592,7 +579,7 @@ Here is how much of TeX's memory you used:
  20718 multiletter control sequences out of 15000+200000
  535065 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,45p,626b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,45p,626b,382s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Mohamed Assem\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec
 /dpi600\tcrm1000.pk><C:/Users/Mohamed Assem/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Mohamed Assem/AppData/Local/
@@ -605,9 +592,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mo
 hamed Assem/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 ti10.pfb><C:/Users/Mohamed Assem/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmtt10.pfb>
-Output written on mohamed_ibrahim_CV.pdf (3 pages, 136409 bytes).
+Output written on mohamed_ibrahim_CV.pdf (3 pages, 135549 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
