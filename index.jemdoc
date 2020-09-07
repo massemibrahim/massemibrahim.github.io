@@ -75,11 +75,11 @@ In [http://hpca2018.ece.ucsb.edu/ The 24th IEEE Symposium on High Performance Co
 \[[Documents/Talks/talk_haonan_wang_hpca2018.pptx Talk]]
 \[[https://youtu.be/lz6jioFjD6k Lightning Talk]] \n
 
-- *\<span style=\"color: FireBrick \"\>(AIM@PACT 2017)\<\/span\>* Hengyu Zhao, Colin Weinshenker, *Mohamed Assem Ibrahim*, Adwait Jog, Jishen Zhao \n
-/Layer-wise Performance Bottleneck Analysis of Deep Neural Networks/, \n
-In [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures for Intelligent Machine], Portland, Oregon, September 2017 \n
-\[[Documents/PDFs/paper_hengyu_zhao_aim2017.pdf Paper]]
-\[[Documents/Talks/talk_hengyu_zhao_aim2017.pptx Talk]] \n
+#- *\<span style=\"color: FireBrick \"\>(AIM@PACT 2017)\<\/span\>* Hengyu Zhao, Colin Weinshenker, *Mohamed Assem Ibrahim*, Adwait Jog, Jishen Zhao \n
+#/Layer-wise Performance Bottleneck Analysis of Deep Neural Networks/, \n
+#In [http://aim2017.cse.psu.edu/ The 1st International Workshop on Architectures for Intelligent Machine], Portland, Oregon, September 2017 \n
+#\[[Documents/PDFs/paper_hengyu_zhao_aim2017.pdf Paper]]
+#\[[Documents/Talks/talk_hengyu_zhao_aim2017.pptx Talk]] \n
 
 - *\<span style=\"color: FireBrick \"\>(HPCA 2017)\<\/span\>* Xulong Tang, Ashutosh Pattnaik, Huaipan Jiang, Onur Kayiran, Adwait Jog, Sreepathi Pai, *Mohamed Assem Ibrahim*, Mahmut T. Kandemir, Chita R. Das \n
 /Controlled Kernel Launch for Dynamic Parallelism in GPUs/, \n
