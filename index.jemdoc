@@ -107,6 +107,7 @@ In [https://www.sigmobile.org/mobisys/2013/index.php The 11th International Conf
 \[[Documents/PDFs/demo_mohamed_ibrahim_mobisys2013.pdf Paper]] \n
 
 == Talks
+- October 2020: /Analyzing and Leveraging Shared L1 Caches in GPUs/ @ [https://pactconf.org/ PACT 2020] \[[Documents/Talks/talk_mohamed_ibrahim_pact2020.pptx Slides]].
 - September 2019: /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/ @ [https://pactconf.org/ PACT 2019] \[[Documents/Talks/talk_mohamed_ibrahim_pact2019.pptx Slides]].
 - February 2018: /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/ @ [http://hpca2018.ece.ucsb.edu/ HPCA 2018] \[[Documents/Talks/talk_haonan_wang_hpca2018.pptx Slides]].
 
