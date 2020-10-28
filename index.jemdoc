@@ -20,6 +20,7 @@ I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Ca
 
 ~~~
 == Recent News
+- October 2020: Our submission /Analyzing and Leveraging Decoupled L1 Caches in GPUs/ got accepted @ [https://hpca-conf.org/2021/ HPCA 2021].
 - July 2020: Our submission /Analyzing and Leveraging Shared L1 Caches in GPUs/ got accepted @ [https://pactconf.org/ PACT 2020].
 - January 2020: Internship at [https://www.amd.com/en/corporate/research AMD Research] starting May 2020.
 - December 2019: I passed my PhD Oral Exam.
@@ -31,6 +32,14 @@ I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Ca
 ~~~
 
 == Publications
+- *\<span style=\"color: FireBrick \"\>(HPCA 2021)\<\/span\>* *Mohamed Assem Ibrahim*, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, Adwait Jog \n
+/Analyzing and Leveraging Decoupled L1 Caches in GPUs/, \n
+In [https://hpca-conf.org/2021/ The 27th IEEE Symposium on High Performance Computer Architecture], Virtual Event, February 2021 \n
+(Acceptance rate: 63/258 ~= %24.4) \n
+# \[[Documents/PDFs/paper_mohamed_ibrahim_hpca2021.pdf Paper]] 
+# \[[Documents/Talks/talk_mohamed_ibrahim_hpca2021.pptx Talk]]
+# \[[https://youtu.be/CGIhOnt7F6s Video]] \n
+
 - *\<span style=\"color: FireBrick \"\>(PACT 2020)\<\/span\>* *Mohamed Assem Ibrahim*, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, Adwait Jog \n
 /Analyzing and Leveraging Shared L1 Caches in GPUs/, \n
 In [https://pactconf.org/ The 29th International Conference on Parallel Architectures and Compilation Techniques], Virtual Event, October 2020 \n
