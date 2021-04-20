@@ -3,26 +3,31 @@
 
 ~~~
 {}{img_left}{Documents/Images/Mohamed_1.jpg}{Mohamed Assem Ibrahim}{157}{208}{}
-PhD Candidate \n
-[http://www.wm.edu/as/computerscience/ Department of Computer Science] \n
-[http://www.wm.edu/ William & Mary] \n
-McGlothlin-Street Hall 101B \n
-Williamsburg, VA 23187 \n
-{{<img src="Documents/Images/Email_Icon.jpg"/ ALIGN=TOP>}} maibrahim*AT*email*DOT*wm*DOT*edu \n
-{{<img src="Documents/Images/Google_Scholar.png"/ ALIGN=TOP>}} [https://scholar.google.com/citations?user=rmDg93AAAAAJ&hl=en Google Scholar Profile] ~ {{<img src="Documents/Images/Linkedin_Icon.png"/ ALIGN=TOP>}} [https://www.linkedin.com/in/mohamed-assem-ibrahim/ LinkedIn Profile] \n
+Postdoctoral Researcher \n
+[https://www.amd.com/en/corporate/research AMD Research] \n
+*Email:* mohamed*1*.ibrahim@amd.com \n
+# {{<img src="Documents/Images/Email_Icon.jpg"/ ALIGN=TOP>}} mohamed*1*.ibrahim@amd.com \n
+\n
+\n 
+#\n
+#\n
+# {{<img src="Documents/Images/Email_Icon.jpg"/ ALIGN=TOP>}} maibrahim*AT*email*DOT*wm*DOT*edu \n
+{{<img src="Documents/Images/Google_Scholar.png"/ ALIGN=TOP>}} [https://scholar.google.com/citations?user=rmDg93AAAAAJ&hl=en Google Scholar Profile] \n
+{{<img src="Documents/Images/Linkedin_Icon.png"/ ALIGN=TOP>}} [https://www.linkedin.com/in/mohamed-assem-ibrahim/ LinkedIn Profile] \n
 {{<img src="Documents/Images/CV_Icon.png"/ ALIGN=TOP>}} [Documents\CV\mohamed_ibrahim_CV.pdf Curriculum Vitae] \n
 ~~~
 
 == About
-I am a PhD student in the Department of Computer Science at William & Mary. My research interests include all aspects of computer architecture, specifically data-parallel architectures (e.g., GPUs), CPU-GPU heterogeneous architectures, and interconnection networks. I am a research assistant in [http://insight-archlab.github.io/ Insight Computer Architecture Lab] advised by [http://adwaitjog.github.io/ Assistant Professor Adwait Jog]. 
+I am a postdoctoral researcher at [https://www.amd.com/en/corporate/research AMD Research]. My research interests include all aspects of computer architecture, specifically data-parallel architectures, CPU-GPU heterogeneous architectures, and interconnection networks. 
 
-I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Cairo University], Egypt. My MSc thesis was supervised by [http://scholar.cu.edu.eg/?q=helboghdadi Professor Hatem El-Boghdadi]. While working as a teaching assistant at Cairo University, I was also a Research Software Development Engineer (RSDE) at [http://www.nileu.edu.eg/ Nile University] with [https://sites.google.com/site/telbatt/ Associate Professor Tamer ElBatt], and a Software Engineer at [http://www.inmobly.com/ Inmobly] with [http://www2.ece.ohio-state.edu/~elgamal/ Professor Hesham ElGamal] and [https://eg.linkedin.com/in/nwanas Associate Professor Nayer Wanas].
+I completed my Ph.D. studies in the Department of Computer Science at [http://www.wm.edu/ William & Mary], where I worked with Professor [http://adwaitjog.github.io/ Adwait Jog] in [http://insight-archlab.github.io/ Insight Computer Architecture Lab]. My dissertation focused on designing high-performance and energy-efficient GPU architectures with an emphasis on cache and interconnect design. Before joining William & Mary, I received my bachelor's and master's degrees in Computer Engineering at [http://cu.edu.eg/Home Cairo University], Egypt.
 
 ~~~
 == Recent News
+- January 2021: Postdoc at [https://www.amd.com/en/corporate/research AMD Research] starting January 2021.
 - October 2020: Our submission /Analyzing and Leveraging Decoupled L1 Caches in GPUs/ is accepted @ [https://hpca-conf.org/2021/ HPCA 2021].
 - July 2020: Our submission /Analyzing and Leveraging Shared L1 Caches in GPUs/ is accepted @ [https://pactconf.org/ PACT 2020].
-- January 2020: Internship at [https://www.amd.com/en/corporate/research AMD Research] starting May 2020.
+# - January 2020: Internship at [https://www.amd.com/en/corporate/research AMD Research] starting May 2020.
 # - December 2019: I passed my PhD Oral Exam.
 # - September 2019: I presented our work [Documents/PDFs/paper_mohamed_ibrahim_pact2019.pdf /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/] at [https://pactconf.org/ PACT 2019].
 # - July 2019: Our submission /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/ is accepted @ [https://pactconf.org/ PACT 2019].
@@ -36,9 +41,10 @@ I received my BSc and MSc in Computer Engineering from [http://cu.edu.eg/Home Ca
 /Analyzing and Leveraging Decoupled L1 Caches in GPUs/, \n
 In [https://hpca-conf.org/2021/ The 27th IEEE Symposium on High Performance Computer Architecture], Virtual Event, February 2021 \n
 (Acceptance rate: 63/258 ~= %24.4) \n
-\[[Documents/PDFs/paper_mohamed_ibrahim_hpca2021.pdf Paper]] \n
-# \[[Documents/Talks/talk_mohamed_ibrahim_hpca2021.pptx Talk]]
-# \[[https://youtu.be/CGIhOnt7F6s Video]] \n
+\[[Documents/PDFs/paper_mohamed_ibrahim_hpca2021.pdf Paper]] 
+\[[Documents/Talks/talk_short_mohamed_ibrahim_hpca2021.pptx Short Talk]]
+\[[Documents/Talks/talk_mohamed_ibrahim_hpca2021.pptx Talk]]
+\[[https://youtu.be/3YbrS9UpTZ0 Video]] \n
 
 - *\<span style=\"color: FireBrick \"\>(PACT 2020)\<\/span\>* *Mohamed Assem Ibrahim*, Onur Kayiran, Yasuko Eckert, Gabriel H. Loh, Adwait Jog \n
 /Analyzing and Leveraging Shared L1 Caches in GPUs/, \n
@@ -115,19 +121,37 @@ In [http://icc2014.ieee-icc.org/ IEEE International Conference on Communications
 In [https://www.sigmobile.org/mobisys/2013/index.php The 11th International Conference on Mobile Systems, Applications, and Services], Taipei, Taiwan, June 2013 \n
 \[[Documents/PDFs/demo_mohamed_ibrahim_mobisys2013.pdf Paper]] \n
 
+~~~
+© 20xx IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+~~~
+
+== Patents
+- *\<span style=\"color: FireBrick \"\>(US10938709B2)\<\/span\>* *Mohamed Assem Ibrahim*, Onur Kayiran, Yasuko Eckert, Jieming Yin \n
+/Mechanism for Dynamic Latency-Bandwidth Trade-off for Efficient Broadcasts\/Multicasts/ \n
+\[[https://patents.google.com/patent/US10938709B2/en Link]] \n
+
 == Talks
+- March 2021: /Analyzing and Leveraging Decoupled L1 Caches in GPUs/ @ [https://hpca-conf.org/2021/ HPCA 2021] \[[Documents/Talks/talk_mohamed_ibrahim_hpca2021.pptx Slides]].
 - October 2020: /Analyzing and Leveraging Shared L1 Caches in GPUs/ @ [https://pactconf.org/ PACT 2020] \[[Documents/Talks/talk_mohamed_ibrahim_pact2020.pptx Slides]].
 - September 2019: /Analyzing and Leveraging Remote-core Bandwidth for Enhanced Performance in GPUs/ @ [https://pactconf.org/ PACT 2019] \[[Documents/Talks/talk_mohamed_ibrahim_pact2019.pptx Slides]].
 - February 2018: /Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management/ @ [http://hpca2018.ece.ucsb.edu/ HPCA 2018] \[[Documents/Talks/talk_haonan_wang_hpca2018.pptx Slides]].
 
 == Thesis/Dissertation
+- PhD Dissertation, \n
+/Rethinking Cache Hierarchy and Interconnect Design for Next-generation GPUs /, \n
+Committee Members: [http://adwaitjog.github.io/ Adwait Jog], [http://www.cs.wm.edu/~dmitry/ Dmitry Evtyushkin], [http://www.cs.wm.edu/~bren/ Bin Ren], [http://www.cs.wm.edu/~andreas/ Andreas Stathopoulos], [https://sites.google.com/site/asithomepage/ Asit Mishra] \n
+#\[[Documents/PDFs/dissertation_mohamed_ibrahim.pdf Dissertation]]
+#\[[Documents/Talks/talk_mohamed_ibrahim_dissertation.pptx Defense]] \n
+
 - MSc Thesis, \n
 /On Enhancing the Performance of Bufferless Network-on-Chip/, \n
-Committee Members: Professor Mohammad Zaki Abdel-Majeed, [http://www.si-ware.com/staff/amr-wassal-ph-d/ Professor Amr Wassal], [http://scholar.cu.edu.eg/?q=helboghdadi Professor Hatem El-Boghdadi] \n
+Committee Members: [http://scholar.cu.edu.eg/?q=helboghdadi Hatem El-Boghdadi], [http://www.si-ware.com/staff/amr-wassal-ph-d/ Amr Wassal], Mohammad Zaki Abdel-Majeed  \n
 \[[Documents/PDFs/thesis_mohamed_ibrahim_msc2015.pdf Thesis]]
 \[[Documents/Talks/talk_mohamed_ibrahim_msc2015.pptx Defense]] \n
 
 == Professional Experience
+- Postdoctoral Researcher at [https://www.amd.com/en/corporate/research AMD Research]
+\n January 2021 - Present
 - Co-Op Engineer at [https://www.amd.com/en/corporate/research AMD Research]
 \n May 2020 - December 2020
 - Co-Op Engineer at [https://www.amd.com/en/corporate/research AMD Research]
@@ -138,14 +162,14 @@ Committee Members: Professor Mohammad Zaki Abdel-Majeed, [http://www.si-ware.com
 - Software Engineer at [http://www.inmobly.com/ Inmobly]
 \n October 2011 - June 2013
 
-== Teaching Experience
-~~~
-[teaching.html Here] is the (almost) complete list of courses.
-~~~
+# == Teaching Experience
+# ~~~
+# [teaching.html Here] is the (almost) complete list of courses.
+# ~~~
 
 == Educational Background
 - {{<img src="Documents/Images/WM_Icon.jpg"/ ALIGN=TOP>}} PhD Student in [http://www.wm.edu/as/computerscience Computer Science], [http://www.wm.edu/ William & Mary]
-\n Spring 2016 - Present
+\n Spring 2016 - Spring 2021
 - {{<img src="Documents/Images/CU_Icon.png"/ ALIGN=TOP>}} MSc in [http://eng.cu.edu.eg/en/ Computer Engineering], [http://cu.edu.eg/Home Cairo University]
 \n Fall 2010 - Fall 2015 
 - {{<img src="Documents/Images/CU_Icon.png"/ ALIGN=TOP>}} BSc in [http://eng.cu.edu.eg/en/ Computer Engineering], [http://cu.edu.eg/Home Cairo University]
@@ -153,8 +177,8 @@ Committee Members: Professor Mohammad Zaki Abdel-Majeed, [http://www.si-ware.com
 # - [http://www.sakkara-els.com/ Sakkara Language School]
 
 == Memberships
-- [http://www.acm.org/ ACM Student]
-- [http://www.ieee.org/index.html IEEE Student Member]
+- [http://www.acm.org/ ACM]
+- [http://www.ieee.org/index.html IEEE]
 
 == Outside Academia
 - {{<img src="Documents/Images/Instagram_Icon.png"/ ALIGN=TOP>}} My [https://www.instagram.com/massemibrahim/ Instagram] account 
