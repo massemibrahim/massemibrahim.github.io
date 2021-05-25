@@ -24,6 +24,7 @@ I completed my Ph.D. studies in the Department of Computer Science at [http://ww
 
 ~~~
 == Recent News
+- May 2021: I earned my Ph.D. in Computer Science from the William & Mary and received the [https://www.wm.edu/as/graduate/studentresources/honors-awards/thesisaward/index.php Distinguished Dissertation Award] in the Natural and Computational Sciences. 
 - January 2021: Postdoc at [https://www.amd.com/en/corporate/research AMD Research] starting January 2021.
 - October 2020: Our submission /Analyzing and Leveraging Decoupled L1 Caches in GPUs/ is accepted @ [https://hpca-conf.org/2021/ HPCA 2021].
 - July 2020: Our submission /Analyzing and Leveraging Shared L1 Caches in GPUs/ is accepted @ [https://pactconf.org/ PACT 2020].
@@ -130,6 +131,10 @@ In reference to IEEE copyrighted material which is used with permission in this 
 /Mechanism for Dynamic Latency-Bandwidth Trade-off for Efficient Broadcasts\/Multicasts/ \n
 \[[https://patents.google.com/patent/US10938709B2/en Link]] \n
 
+== Awards
+- Distinguished Dissertation Award in the Natural and Computational Sciences, William & Mary \[One recipient per year\] \n
+\[[https://www.wm.edu/as/graduate/studentresources/honors-awards/thesisaward/index.php Link]] \n
+
 == Talks
 - March 2021: /Analyzing and Leveraging Decoupled L1 Caches in GPUs/ @ [https://hpca-conf.org/2021/ HPCA 2021] \[[Documents/Talks/talk_mohamed_ibrahim_hpca2021.pptx Slides]].
 - October 2020: /Analyzing and Leveraging Shared L1 Caches in GPUs/ @ [https://pactconf.org/ PACT 2020] \[[Documents/Talks/talk_mohamed_ibrahim_pact2020.pptx Slides]].
@@ -140,8 +145,9 @@ In reference to IEEE copyrighted material which is used with permission in this 
 - PhD Dissertation, \n
 /Rethinking Cache Hierarchy and Interconnect Design for Next-generation GPUs /, \n
 Committee Members: [http://adwaitjog.github.io/ Adwait Jog], [http://www.cs.wm.edu/~dmitry/ Dmitry Evtyushkin], [http://www.cs.wm.edu/~bren/ Bin Ren], [http://www.cs.wm.edu/~andreas/ Andreas Stathopoulos], [https://sites.google.com/site/asithomepage/ Asit Mishra] \n
-#\[[Documents/PDFs/dissertation_mohamed_ibrahim.pdf Dissertation]]
-#\[[Documents/Talks/talk_mohamed_ibrahim_dissertation.pptx Defense]] \n
+*\<span style=\"color: FireBrick \"\>Distinguished Dissertation Award from William & Mary\<\/span\>* \n
+\[[Documents/PDFs/dissertation_mohamed_ibrahim.pdf Dissertation]]
+\[[Documents/Talks/talk_mohamed_ibrahim_dissertation.pptx Defense]] \n
 
 - MSc Thesis, \n
 /On Enhancing the Performance of Bufferless Network-on-Chip/, \n
